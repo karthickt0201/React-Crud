@@ -1,0 +1,88 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  justify-content: center;
+
+}
+
+#discription{
+
+  position: relative;
+  width: 100%;
+}
+
+#image {
+  padding-left: 2.5rem;
+  top: -1.5rem;
+  position: relative;
+}
+
+#price {
+  padding-left: 2rem;
+  top: -1.5rem;
+  position: relative;
+}
+
+#qty {
+  padding-left: 2.8rem;
+  top: -1.5rem;
+  position: relative;
+}
+
+i{
+  font-size: 23px; 
+  position: relative;
+  z-index: 1;
+  left: .5rem;
+  top: .5rem;
+}
+
+.body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.car{
+  justify-content: space-between ;
+}
+
+body{
+  background-color: white;
+  width: 100%;
+}
+
+table {
+  width: 90%;
+  align-items: center;
+  justify-content: center;    
+}
+
+tbody tr td{
+padding-top: 3%;
+}
+
+.container{
+  width: 60%;
+}
+
+#butn{
+  display: flex;
+  border: 0px;
+  align-items: center;  
+  justify-content: center;
+}
+
+#butn2{
+  margin-right: 10%;
+}
+
+tbody tr td img{
+  padding: 5%;
+  height: 10vh;
+
+}
+
+
